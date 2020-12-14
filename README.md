@@ -57,10 +57,24 @@ We have provided test data for all the resources.
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. The core features of Node.js and Express and why they are useful.
+
+**express is a framework that runs within Node js that allows developers to create and maintain servers. its used to write server logic using JS for web applications
+
 1. Understand and explain the use of Middleware.
+
+**middleware works as functions that allow us to trigger actions throughout the app. also allows front and backend to communicate with each other
+
 1. The basic principles of the REST architectural style.
+
+**REpresentational State Transfer is stateles. It is simply the current state of an objects stored inside the database, accessed by HTTP protocol. It allows the use of a particular URL address to retrieve that information. 
+
 1. Understand and explain the use of Express Routers.
+
+**Express routers allow us to use built-in, third-party and custom middleware for our CRUD operations. 
+
 1. Describe tooling used to manually test the correctness of an API.
+
+**Insomnia is a free cross-platform desktop application that takes the pain out of interacting with HTTP-based APIs. Insomnia combines an easy-to-use interface with advanced functionality like authentication helpers, code generation, and environment variables.
 
 ## Instructions
 
